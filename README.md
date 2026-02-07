@@ -1,3 +1,3 @@
-## Hello,
+## Hello, World!
 
-I am RockingMonki ( Vivek ) and I am trying to learn programming and solve some problems which are fun.
+I am RockingMonki (Vivek) and I am here to learn about programming and solving problems which are fun and involve data a lot of data.
